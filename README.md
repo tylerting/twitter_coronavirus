@@ -62,4 +62,4 @@ $ python3 ./src/alternative_reduce.py --keys '#hospital' '#doctor'
 
 and get:
 
-![#hospital and #doctor throughout 2020][hospital_doctor.png]
+![#hospital and #doctor throughout 2020](hospital_doctor.png)
